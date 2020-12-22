@@ -12,6 +12,9 @@ Git / GitHub 사용 방법을 배우고, 테스트 해보는 레포
 - Understanding the GitHub flow  
 https://guides.github.com/introduction/flow/
 
+- Git 뉴비를 위한 기초 사용법 - 시작하기  
+https://evan-moon.github.io/2019/07/25/git-tutorial/
+
 - Git 뉴비를 위한 기초 사용법 - 버전 관리  
 https://evan-moon.github.io/2019/07/28/git-tutorial-advanced/
 
