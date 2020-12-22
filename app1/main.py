@@ -12,3 +12,12 @@ print('my!!!')
 print('hello app1')
 print('hello! my name is epic!')
 print('this is third lines')
+  
+
+
+  # plot 기능 추가
+
+  # plot2
+
+
+  # bump version
