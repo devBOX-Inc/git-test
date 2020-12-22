@@ -38,6 +38,10 @@ print("fly222")
 print("fly3333")
 
 print("fly4444")
+print('epic')
 
 
+# 로그 기능 구현 완료함
 
+
+# 프린트 기능 구현
