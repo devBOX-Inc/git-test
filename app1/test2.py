@@ -24,3 +24,6 @@ print('test100-2')
 
 
 print('test200-2')
+
+for j in range(100):
+    print(j)
