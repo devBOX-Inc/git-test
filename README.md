@@ -7,6 +7,13 @@ Git / GitHub 사용 방법을 배우고, 테스트 해보는 레포
 - 이슈 #1 내용 확인
 
 
+## Git 프로그램
+- Git Graph  
+https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+- GitHub Desktop  
+https://desktop.github.com/
+- GitKraken (유료)  
+https://www.gitkraken.com/
 
 ## 좋은 링크
 - Understanding the GitHub flow  
