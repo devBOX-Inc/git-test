@@ -52,7 +52,7 @@ print('test')
 
 import os
 
-print(os.getcwd())
+print(os.getcwd()) 
 
 
 
@@ -70,3 +70,5 @@ print(test_list)
 
 
 # 로그 기능 구현 완료함
+
+# 프린트 기능 구현
