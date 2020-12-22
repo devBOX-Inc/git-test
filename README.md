@@ -21,3 +21,5 @@ https://evan-moon.github.io/2019/07/28/git-tutorial-advanced/
 - 커밋 히스토리를 이쁘게 단장하자   
 https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/
 
+- Git과 GitHub  
+https://brunch.co.kr/magazine/gitandgithub
