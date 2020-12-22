@@ -30,3 +30,8 @@ print('aijfe')
 print('kkkkk')
 for i in range(10):
     print(i)
+
+
+
+print("fly")
+print("fly222")
