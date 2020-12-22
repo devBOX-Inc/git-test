@@ -26,3 +26,6 @@ print('test100-2')
 print('test200-2')
 
 print('aijfe')
+print('kkkkk')
+for i in range(10):
+    print(i)
