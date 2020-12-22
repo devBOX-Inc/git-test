@@ -41,3 +41,4 @@ print("fly4444")
 print('epic')
 
 
+# 로그 기능 구현 완료함

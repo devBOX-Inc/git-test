@@ -69,3 +69,4 @@ print(test_list)
 
 
 
+# 로그 기능 구현 완료함
