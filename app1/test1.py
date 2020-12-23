@@ -56,7 +56,7 @@ print(os.getcwd())
 
   
 
-
+ 
 test_list = list()
 
 print(test_list)
@@ -73,10 +73,10 @@ print(test_list)
 
 # 프린트 기능 구현
 
-
+  
  # V1.0
 
 
 
 
- # siajfe
+ # siajfe 
