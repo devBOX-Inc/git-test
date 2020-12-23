@@ -50,7 +50,7 @@ print()
 print('test')
 
   
-import os
+import os 
 
 print(os.getcwd()) 
 
@@ -62,7 +62,7 @@ test_list = list()
 print(test_list)
 
 
-# del.test_list
+# del.test_list 
 
 # print() 
 
