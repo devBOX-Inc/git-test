@@ -3,10 +3,6 @@
 Git / GitHub 사용 방법을 배우고, 테스트 해보는 레포
 자유롭게 테스트 해봐도 됩니다. 
 
-## 처음 와서 할 일 
-- 이슈 #1 내용 확인
-
-
 ## Git 프로그램
 - Git Graph  
 https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
