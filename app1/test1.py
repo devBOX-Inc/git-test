@@ -1,6 +1,6 @@
 
 
-
+0.10.0.2
 print('test')
 print('test1')
 print('test2')
@@ -23,10 +23,10 @@ print('test555')
 
 print('test777')
 print('test888')
-
+  
  
 
-print("FLFLF") 
+print("FLFLF")  
 
 print('test1234')
 print('11111')
@@ -43,28 +43,28 @@ print()
 
   
 
-
+ 
 
 
 
 print('test')
 
   
-import os
+import os 
 
 print(os.getcwd()) 
 
   
 
-
-test_list = list()
+ 
+test_list = list() 
 
 print(test_list)
 
 
-# del.test_list
+# del.test_list 
 
-# print()
+# print() 
 
 
 
@@ -73,5 +73,10 @@ print(test_list)
 
 # 프린트 기능 구현
 
-
+  
  # V1.0
+
+
+
+
+ # siajfe 
