@@ -24,7 +24,7 @@ https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/
 
 - Git과 GitHub  
 https://brunch.co.kr/magazine/gitandgithub
-
+   
 
 ## 기타 링크
 - 우린 Git-flow를 사용하고 있어요  
