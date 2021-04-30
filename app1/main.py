@@ -24,3 +24,7 @@ print('this is third lines')
 
 
   # test a
+
+
+
+  현이형 기능구현
